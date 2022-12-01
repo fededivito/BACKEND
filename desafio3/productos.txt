@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "funda automotor",
+    "price": 12000,
+    "thumbnail": "url1"
+  },
+  {
+    "id": 2,
+    "title": "cubreauto",
+    "price": 15000,
+    "thumbnail": "url2"
+  },
+  {
+    "id": 3,
+    "title": "cubrevolante",
+    "price": 4500,
+    "thumbnail": "url3"
+  }
+]
