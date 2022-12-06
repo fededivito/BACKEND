@@ -4,7 +4,7 @@ const app = express()
 app.use(express.json())
 app.listen(8080, () => console.log('8080'))
 
-const Contenedor = require('./contenedor.js')
+const Contenedor = require('./container.js')
 const productos = new Contenedor('productos.txt')
 
 
